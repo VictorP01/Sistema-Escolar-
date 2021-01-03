@@ -6,7 +6,7 @@ namespace Revisao
     {
         static void Main(string[] args)
     {
-        Aluno[] alunos = new Aluno[5];
+        Aluno[] alunos = new Aluno[20];
         var indiceAluno = 0;
         string opcao = obterOpcao();
 
